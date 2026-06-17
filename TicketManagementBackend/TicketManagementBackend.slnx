@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TicketManagementBackend.Tests/TicketManagementBackend.Tests.csproj" Id="60c1e5c9-b803-4da0-8792-e9c1c0682a2e" />
+  <Project Path="TicketManagementBackend/TicketManagementBackend.csproj" />
+</Solution>
